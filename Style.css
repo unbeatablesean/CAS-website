@@ -1,0 +1,34 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 20px;
+  }
+  
+  .main-title {
+    color: #2c3e50;
+    text-align: center;
+  }
+  
+  .intro {
+    color: #555;
+    font-size: 18px;
+    text-align: center;
+  }
+  .image-caption {
+    color: #555;
+    font-size: 14px;
+    text-align: center;
+  }
+  .section-title {
+    color: #2c3e50;
+    margin-left: 200px;
+    margin-right: 200px;
+  }
+  .section-content {
+    color: #555;
+    font-size: 16px;
+    text-align: justify;
+    margin-left: 200px;
+    margin-right: 200px;
+  }
